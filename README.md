@@ -1,7 +1,10 @@
 # half-life-week1-PCB-starbie
 This is my week 1 starbie tutorial project. I've never worked with hardware stuff before so hoping this goes well :D
+
 The repo includes the Arduino code (.ino), the schematic diagram of the PCB, and the gerber file of the PCB
+
 I sort of changed it midway through to not be related to starbie but rather my own little character
+
 The project is still the same though: a custom tamagotchi
 
 Image of PCB:
