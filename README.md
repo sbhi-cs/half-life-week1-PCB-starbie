@@ -5,4 +5,5 @@ I sort of changed it midway through to not be related to starbie but rather my o
 The project is still the same though: a custom tamagotchi
 
 Image of PCB:
+
 <img width="787" height="707" alt="Screenshot 2026-10-11 001930" src="https://github.com/user-attachments/assets/f14e7880-9ba9-4dbe-b12b-06b5b144ed4d" />
